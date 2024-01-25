@@ -1,0 +1,25 @@
+h1{
+ padding-left: 30px;
+ font-size: 50px;
+}
+p{
+    padding-left: 30px;
+    font-size: 20px;
+}
+hr{
+    background-color: linear-gradient(red,blue);
+}
+ul{
+    padding-left: 60px;
+    list-style-type:disc;
+}
+pre{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h3{
+font-size: 30px;
+padding-left: 30px;
+}
+.main{
+    background-image: linear-gradient(to right,rgb(239, 207, 207),aqua);
+}
